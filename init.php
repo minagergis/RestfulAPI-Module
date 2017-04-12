@@ -1,13 +1,13 @@
 <?php
-////////////////////////////////////////////      Traxeed V. 1.0.0      ////////////////////////////////////////////
+////////////////////////////////////////////      MinaAPI V. 1.0.0      ////////////////////////////////////////////
 /*                                                                                                                */
-/*                                           This is not a free script                                            */
-/*                              All rightes reserved to traxeed.net and traxeed.com                               */
+/*                                                                                                            */
+/*                                                                                                                */
 /*                                                                                                                */
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Includers
-include '../includes/traxeed.class.php';
+include '../includes/minaapi.class.php';
 include 'api.class.php';
 //include 'coutnries.php';
 
